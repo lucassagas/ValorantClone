@@ -1,11 +1,12 @@
 import GlobalStyles from '../styles/GlobalStyles'
+import Layout from '../components/Layout'
 
 export default function Home() {
   return (
-    <div>
-      <h1>hello next</h1>
+    <>
+      <Layout />
 
       <GlobalStyles />
-    </div>
+    </>
   )
 }

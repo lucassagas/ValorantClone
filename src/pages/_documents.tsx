@@ -48,6 +48,8 @@ export default class MyDocument extends Document {
             rel="stylesheet"
           />
 
+          <title>Valorant</title>
+
           <link rel="icon" href="/favicon.ico" />
         </Head>
 
